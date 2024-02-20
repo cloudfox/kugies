@@ -4,7 +4,6 @@ cssclasses:
   - embed-strict
 ---
 
-<div id='stars'></div>
 <div id='stars2'></div>
 <div id='stars3'></div>
 <div id='stars4'></div>
@@ -49,8 +48,8 @@ cssclasses:
     - 
 
 - 📦Resources
-    - [[Programming]]
-    - [[Game Dev]]
+    - [Programming](Programming%20Resources.md)
+    - [Game Dev](Game%20Dev%20Resources.md)
 # 🪁Misc
 - Cooking
   - [[Cookies]]
@@ -59,9 +58,22 @@ cssclasses:
 - [[Pets]]
 
 
+---
 
 
+### Todo
+<input type="checkbox">Finish BOIDS post 
+<input type="checkbox">Review Programming Tutorial for consistent formatting
+<input type="checkbox">Rework blog page formatting/organization
+<input type="checkbox">Finish Arrays 
+<input type="checkbox">Writeups on previous projects
+<input type="checkbox">Section 1 Exercises
+<input type="checkbox">Endless css tinkering
 
+
+---
+
+<div id='stars1'></div>
 
 \
 \
@@ -294,9 +306,6 @@ cssclasses:
 \
 <tab>
 What are you doing down here?
-
-
-
 
 
 

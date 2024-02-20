@@ -8,7 +8,7 @@ publish: false
 <div id='stars3'></div>
 <div id='stars4'></div>
 
-
+<abbr title="Hypertext Markup Language">HTML</abbr>
 
 kinda finicky dataview
 ```dataview 
@@ -18,7 +18,9 @@ TABLE DOTO FROM -"Templates" WHERE TODO
 DOTO:: <input type="checkbox"> this needs doing
 - [ ] item 1
 <input type="checkbox"><input type="checkbox" checked> check box through html 
-
+ - [ ]  d
+ - [ ] d
+ - [ ] 
 
 https://github.com/Dmytro-Shulha/obsidian-css-snippets/tree/master/Snippets
 
